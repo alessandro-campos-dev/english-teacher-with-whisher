@@ -1,4 +1,4 @@
-# 🎯 English Teacher Assistant with Whisper Online/Offline
+# 🎯 English Teacher with Whisper Online/Offline
 O English Teacher Assistant é um aplicativo interativo com inteligência artificial que ajuda você a praticar inglês por meio de aulas personalizadas. Utilizando tecnologia de ponta em reconhecimento de voz (Whisper) e processamento de linguagem natural (ChatGPT), ele cria uma experiência de aprendizado imersiva, adaptada ao seu nível e objetivos.
 
 - 📴 **Offline Mode** – Sem APIs, sem internet, totalmente local
